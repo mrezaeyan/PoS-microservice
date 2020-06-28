@@ -1,1 +1,1 @@
-# PoS-microservice
+# Point of Sale Solution
